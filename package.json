@@ -1,0 +1,23 @@
+{
+  "name": "js-array-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "candy_shop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancescoCollotto/js-array-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancescoCollotto/js-array-exercises/issues"
+  },
+  "homepage": "https://github.com/FrancescoCollotto/js-array-exercises#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}

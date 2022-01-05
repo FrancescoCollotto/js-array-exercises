@@ -19,5 +19,6 @@
   "homepage": "https://github.com/FrancescoCollotto/js-array-exercises#readme",
   "dependencies": {
     "jest": "^27.4.7"
-  }
+  },
+  "devDependencies": {}
 }
